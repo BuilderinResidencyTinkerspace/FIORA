@@ -63,7 +63,7 @@ Land on a project idea and validate whether our planned hardware and software st
 * The battery must safely supply both motors and electronics.
 * The DWIN touchscreen requires separate UI design and DGUS configuration.
 * LiDAR-based mapping and navigation still need to be validated on the actual robot.
-* TELEGRAM DELIVERY        
+* Telegram Communication      
  * Internet connection is required for Telegram communication.
  * Telegram API/token security must be maintained.
  * Network delays may affect command and status updates.
