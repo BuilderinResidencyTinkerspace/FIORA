@@ -1,4 +1,5 @@
-# Builder-in-Residence — Project Template
+# Builder-in-Residence — FIORA
+
 
 Template repo for BIR projects. Click **Use this template** to start your own copy.
 
