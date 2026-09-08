@@ -22,7 +22,7 @@ Land on a project idea and validate whether our planned hardware and software st
   * Other indoor facilities
 * Planned the core hardware:
   * Raspberry Pi
-  * Arduino UNO R4
+  * Arduino UNO R4 or ESP32 S3 PICO
   * 4 × encoder geared motors
     * GB37 12V 60 RPM 
   * 4 × mecanum wheels
