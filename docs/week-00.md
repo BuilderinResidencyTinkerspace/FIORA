@@ -18,7 +18,7 @@ Land on a project idea and validate whether our planned hardware and software st
   * Offices
   * Warehouses
   * Hospitals
-  * Hospitality
+  * collage
   * Other indoor facilities
 * Planned the core hardware:
   * Raspberry Pi
