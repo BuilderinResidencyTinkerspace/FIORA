@@ -37,7 +37,7 @@ Land on a project idea and validate whether our planned hardware and software st
   * LiDAR-based mapping
   * Encoder-based odometry
   * IMU-based motion feedback
-  * * Explored Telegram as the communication interface for FIORA:
+  * Explored Telegram as the communication interface for FIORA:
   * Users can send delivery requests through a Telegram bot
   * FIORA can receive commands remotely
   * Robot status and delivery completion can be sent back to the user
