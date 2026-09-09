@@ -10,16 +10,17 @@ Next, we needed to design a suitable mounting model to fit and secure the motors
 
 We then started designing a custom motor-to-wheel adapter. We started exploring CAD, and it was a long process.
 ## Problems and blockers
-*The wheel adapter did not fit the wheel hub, and the available adapters were too expensive.
-*Designing a custom adapter in CAD took extra time and required us to learn new CAD techniques.
+* The wheel adapter did not fit the wheel hub, and the available adapters were too expensive.  
+* Designing a custom adapter in CAD took extra time and required us to learn new CAD techniques.
 
 ## Decisions
 
--
+* decided to design a custom motor-to-adapter instead of buying.
 
 ## Next week
-
--
+* Complete the CAD design of the custom adapter.
+* 3D print and test the adapter.
+* Design the motor mounting structure and continue assembling the prototype.
 
 ## Links
 
