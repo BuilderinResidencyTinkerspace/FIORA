@@ -16,6 +16,7 @@ We then started designing a custom motor-to-wheel adapter. We started exploring 
 ## Decisions
 
 * decided to design a custom motor-to-adapter instead of buying.
+* Continued exploring CAD to create a suitable adapter.
 
 ## Next week
 * Complete the CAD design of the custom adapter.
