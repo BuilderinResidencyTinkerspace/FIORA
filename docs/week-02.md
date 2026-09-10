@@ -20,20 +20,35 @@ Finally, we printed a coupler that fits on both sides. It is not a perfect fit y
 
 
 ## Problems and blockers
--
+* The first CAD model we printed was bigger than our wheel, so it didn't fit properly.
+* We couldn't find an existing CAD model with the exact measurements we needed.
+* Our first coupler was too thin, so it broke when we tested it with the wheel.
+* Even though our measurements were correct in CAD, the printed parts were coming out slightly different in size.
+* We had to try more than 15 different designs and prints before getting a coupler that was usable.
+* At first, we didn't know that 3D-printing tolerance could make such a big difference when trying to get a tight fit.
 
 ## Decisions
 
--
+* Since we couldn't find a suitable existing model, we decided to design the wheel adapter ourselves.
+* We decided to keep some tolerance in the design instead of using the exact measured dimensions.
+* We will continue with the process of designing, printing, testing, and changing the design until we get the fit right.
+* For now, we are going ahead with the current coupler because it fits well enough on both sides and allows us to continue with the rest of the robot.
+* We decided to move on to the motor mounting and start working on completing the base.
 
 ## Next week
 
--
+* Start designing the motor mounts for the GB37 motors.
+* Figure out the best position for the motors on the base.
+* Make some improvements to the current wheel coupler so that it fits better and is stronger.
+* Print the motor mounts and test them with the motors.
+* Continue working on and completing the FIORA base.
+* Test the motors, couplers, and wheels together to see how everything works under load.
+* Make changes to the designs based on what we find during testing.
 
 ## Links
 
 - Code:
-- Photos / CAD:<img width="1280" height="720" alt="WhatsApp Image 2026-09-10 at 2 50 15 AM" src="https://github.com/user-attachments/assets/7e24055e-c886-4c26-953e-b39f6fc8e5da" /> 
-<img width="720" height="1280" alt="WhatsApp Image 2026-09-10 at 2 50 16 AM" src="https://github.com/user-attachments/assets/3d3911d1-27c6-4db8-beed-400ccc4447f0" /> <img width="720" height="1280" alt="WhatsApp Image 2026-09-10 at 2 50 16 AM (1)" src="https://github.com/user-attachments/assets/e7ea2e7d-d2b8-4839-8f09-3016125a4bd2" />
+- Photos / CAD:<img width="1100" height="680" alt="WhatsApp Image 2026-09-10 at 2 50 15 AM" src="https://github.com/user-attachments/assets/7e24055e-c886-4c26-953e-b39f6fc8e5da" /> 
+<img width="680" height="1100" alt="WhatsApp Image 2026-09-10 at 2 50 16 AM" src="https://github.com/user-attachments/assets/3d3911d1-27c6-4db8-beed-400ccc4447f0" /> <img width="680" height="1100" alt="WhatsApp Image 2026-09-10 at 2 50 16 AM (1)" src="https://github.com/user-attachments/assets/e7ea2e7d-d2b8-4839-8f09-3016125a4bd2" />
 
 
