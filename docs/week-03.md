@@ -8,7 +8,7 @@ Continue working on the FIORA prototype by designing the motor mounting. Our mai
 
 ## What we did
 
--
+- so started to design a mount for motor. adhyame njngal plan cheythath  
 
 ## Problems and blockers
 
