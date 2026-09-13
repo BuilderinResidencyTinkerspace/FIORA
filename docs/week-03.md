@@ -12,8 +12,12 @@ Continue working on the FIORA prototype by designing the motor mounting. Our mai
 <img width="400" height="379" alt="motor mounting 2" src="https://github.com/user-attachments/assets/353e7949-d010-4668-a426-da93176a4413" />
  all we have to do is screw it into the base. but njn motor to wheel adapterilekulla coupler sheri aavathu kond thanne njngal athinte backil aayrunnu. athukond thanne njngal 3d modeling and printing padich eduthu. so njngal vicharichu ennall mountum koode deign cheyth nokkam enn angaane we started to design.   
 first njngal front faceplatinte and front end shieldinte measurment koode aduth designing thodangi. njngalk aadyam aa motorinte front bagam correct aayitt kero enn nokanam aayrunnu. ennitt matrame ath basilek vekkanulla design cheyyandu.so we satrted to print the model.
- njngal ath print aayathin shesham itt noki and it was fitting.<img width="  " height="1600" alt="WhatsApp Image 2026-09-12 at 12 33 20 PM" src="https://github.com/user-attachments/assets/df714b53-94ca-49e3-b224-b41cb2bf4067" />
- angane njgal mountinginte first stage compplet aaki.  .
+ njngal ath print aayathin shesham itt noki and it was fitting.
+ <div align="left">
+  <img width="400" height="533" alt="WhatsApp Image 2026-09-12 at 12 33 20 PM" src="https://github.com/user-attachments/assets/df714b53-94ca-49e3-b224-b41cb2bf4067" />
+</div>
+ angane njgal mountinginte first stage compplet aaki.
+ 
 ## Problems and blockers
 
 -
