@@ -1,4 +1,4 @@
-# Week 3
+`# Week 3
 
 **Goal this week:** # Week 3
 
@@ -16,8 +16,8 @@ first njngal front faceplatinte and front end shieldinte measurment koode aduth 
  <div align="left">
   <img width="400" height="533" alt="WhatsApp Image 2026-09-12 at 12 33 20 PM" src="https://github.com/user-attachments/assets/df714b53-94ca-49e3-b224-b41cb2bf4067" />
 </div>
- angane njgal mountinginte first stage compplet aaki.
- 
+ angane njgal mountinginte first stage compplet aaki.ini njngalk basilek attachid akanam athine so njgal adyam squar shapil mound indaka mattethinte same dimention vechitt.the motor is a pefect fit but its too tight. and also the bigest problem was we took the full full lenth of our motor and designed and printed. it will cover the entire motor. so made a small sqaure mounting and it was too small 
+ so we had to try another go and we thought why not design any other shape for our model so designed a traingled shape mounting and became suituble for our model. and we put our motor into the mount and connected the coupeler to the adapter and just placed to the base and here comes the other problem. njngalude couplerinte size of th length was big and 
 ## Problems and blockers
 
 -
