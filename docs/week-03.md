@@ -9,8 +9,10 @@ Continue working on the FIORA prototype by designing the motor mounting. Our mai
 ## What we did
 
 -We started working on the motor mount for the motors. At first, our plan was to simply buy a motor mounting bracket.
+
 <img width="400" height="379" alt="motor mounting 2" src="https://github.com/user-attachments/assets/353e7949-d010-4668-a426-da93176a4413" />
- At first, we thought that all we had to do was screw the motor mount directly onto the base. But since we were already spending a lot of time getting the motor-to-wheel adapter and the coupler right, we had already started learning more about 3D modelling and 3D printing. So we thought, why not try designing the motor mount ourselves as well? That way, we could make it according to our own requirements instead of depending on a ready-made mount.
+  
+   At first, we thought that all we had to do was screw the motor mount directly onto the base. But since we were already spending a lot of time getting the motor-to-wheel adapter and the coupler right, we had already started learning more about 3D modelling and 3D printing. So we thought, why not try designing the motor mount ourselves as well? That way, we could make it according to our own requirements instead of depending on a ready-made mount.
 
 So, we started designing the motor mount.
 First, we took the measurements of the motor's front face plate and the front-end shield and started designing the mount based on those measurements. Our first priority was to make sure that the front part of the motor would fit correctly into the mount. Only after getting that part right would we design the rest of the mount to attach it to the base.
@@ -34,15 +36,24 @@ So, we realized that we had to redesign the coupler first before continuing with
 
 ## Problems and blockers
 
--
+* The first square-shaped motor mount was fitting the motor, but it was too tight.
+* The motor mount was covering almost the entire length of the motor.
+* The smaller square-shaped mount turned out to be too small.
+* The coupler was too long, which forced us to move the motor mount backwards.
+* Moving the mount backwards caused the left and right mounts to touch each other, affecting the position of the wheel and preventing it from aligning properly with the wheel cutout.
 
 ## Decisions
 
--
+* Instead of buying a ready-made motor mounting bracket, we decided to design and 3D print our own mount.
+* We tried different shapes for the motor mount and found that the triangular-shaped design was more suitable for our model.
+* We decided to redesign the coupler before continuing with the motor mounting.
 
 ## Next week
 
--
+* Redesign the coupler with a suitable length.
+* 3D print and test the redesigned coupler.
+* Finalize the motor mount position.
+* Attach the motor mount properly to the base.
 
 ## Links
 
