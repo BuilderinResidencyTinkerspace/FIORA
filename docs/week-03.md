@@ -16,7 +16,6 @@ So, we started designing the motor mount.
 First, we took the measurements of the motor's front face plate and the front-end shield and started designing the mount based on those measurements. Our first priority was to make sure that the front part of the motor would fit correctly into the mount. Only after getting that part right would we design the rest of the mount to attach it to the base.
 
 So, we made a basic model and started with a 3D print to test the fitting. Once the model was printed, we placed the motor into it and checked how well it fitted.
-
 It was fitting properly, which was a good sign. Now that we knew the motor could fit into the mount, we could continue working on the design a new model to attach the mount to the base.
 
  <div align="left">
