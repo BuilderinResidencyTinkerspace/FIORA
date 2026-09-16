@@ -21,7 +21,7 @@ It was fitting properly, which was a good sign. Now that we knew the motor could
  <div align="left">
   <img width="400" height="533" alt="WhatsApp Image 2026-09-12 at 12 33 20 PM" src="https://github.com/user-attachments/assets/df714b53-94ca-49e3-b224-b41cb2bf4067" />
 </div>
-So, we completed the first stage of the mounting. Now we had to attach the mount to the base. First, we decided to make a square-shaped mount using the same dimensions as the previous model. The motor was fitting perfectly, but it was too tight.
+So, we completed the first stage of the mounting. Now we had to attach the mount to the base. First, we decided to make a square-shaped mount using the same dimensions as the previous model. The motor was fitting perfectly, but it was too tight. so we sanded it with sandpaper
 
 Another major problem was that we had taken the full length of the motor while designing and printing the mount. Because of this, the mount was covering almost the entire motor. So, we made another smaller square-shaped mount, but that one turned out to be too small.
 We had to try again, and this time we thought, why not try a different shape for our model? So, we designed a triangular-shaped mount, and this one became more suitable for our model.
