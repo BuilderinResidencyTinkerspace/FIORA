@@ -21,8 +21,17 @@ It was fitting properly, which was a good sign. Now that we knew the motor could
  <div align="left">
   <img width="400" height="533" alt="WhatsApp Image 2026-09-12 at 12 33 20 PM" src="https://github.com/user-attachments/assets/df714b53-94ca-49e3-b224-b41cb2bf4067" />
 </div>
- angane njgal mountinginte first stage compplet aaki.ini njngalk basilek attachid akanam athine so njgal adyam squar shapil mound indaka mattethinte same dimention vechitt.the motor is a pefect fit but its too tight. and also the bigest problem was we took the full full lenth of our motor and designed and printed. it will cover the entire motor. so made a small sqaure mounting and it was too small 
- so we had to try another go and we thought why not design any other shape for our model so designed a traingled shape mounting and became suituble for our model. and we put our motor into the mount and connected the coupeler to the adapter and just placed to the base and here comes the other problem. njngalude couplerinte size of th length was big and njgalk motor mounting kurach backilek vekkanam ayrunnu. when njngal ath bakil vekkumbol lefside and right sidile mounting thammil muttunund. so wheel athite whwwl cut outil nilkilla . so njngalk couplerine adhyavum redesign cheyyanam.
+So, we completed the first stage of the mounting. Now we had to attach the mount to the base. First, we decided to make a square-shaped mount using the same dimensions as the previous model. The motor was fitting perfectly, but it was too tight.
+
+Another major problem was that we had taken the full length of the motor while designing and printing the mount. Because of this, the mount was covering almost the entire motor. So, we made another smaller square-shaped mount, but that one turned out to be too small.
+We had to try again, and this time we thought, why not try a different shape for our model? So, we designed a triangular-shaped mount, and this one became more suitable for our model.
+We placed the motor into the mount, connected the coupler to the adapter, and then placed the whole setup on the base. That's when we found another problem. The length of our coupler was too big, so we had to move the motor mount a little further back to get the wheel into the correct position.
+
+But when we moved the mount backwards, the mounts on the left and right sides started touching each other. Because of this, the motor and wheel could not be positioned properly, and the wheel was no longer aligned with the wheel cutout in the base. The wheel was supposed to sit inside the cutout and come through it properly, but because of the mounting position, it was getting blocked and could not fit into the cutout correctly.
+
+So, we realized that we had to redesign the coupler first before continuing with the motor mounting.
+
+
 ## Problems and blockers
 
 -
