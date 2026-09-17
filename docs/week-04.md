@@ -1,6 +1,6 @@
 # Week 4
 
-**Goal this week:**
+**Goal this week:** redesign the coupler so the motor and wheel assembly fits properly inside the base
 
 ## What we did
 
