@@ -29,8 +29,10 @@ Finally, we assembled everything together, and at last, everything was fitting p
 <img width="400" alt="FIORA - Motor Mounting" src="https://github.com/user-attachments/assets/10aaf61c-4842-4359-8aa6-52150283235e" />
 
 so now we are going to our next stage and that electronics. 
-nammal  electronics 
 
+nammal electronicil work cheyyan thudangi. and first ellavarudeyum pole thanne nammudeyum task motor karakuka ennayirunnu. so nammal mammude 1st core micro controller is esp32 s3 pico vestion aan.
+and TB6612FNG motordriver aayrunnu. njngal first mculikk code applode cheythu ennit motor driver connct cheythunoki but it was not working appozhanel und lapinn notification verunne esp32 have some problem enn oke paranjitt. so njngal esp32 touch cheyth nokumbol ind its too hot appol thanne njngal data cable okke disconnect cheythu. nokkumbol anell cable okke heat aayittund aayrunnu. wew recheked the esp again and it was burned. the real reason enthan enn njngalk ippolum ariyilla. so njngal time waste cheyyanda enn vicharichitt vere esp32 models use cheyyan vicharichu. and we tried esp32 devkit 
+ath first okke preshnam illand thanne work cheythinayrunnum but suddently ath work cheyyand aay. and we think its power issue anne aan vicharikune. so. njagal arduino unoyilek mari. athukond thanne njngalk motor driver koode mattendi vanu. nagane njgal L298 use cheythu. but L298 has also limit. lots ogf heat produse avunnuath kond thane vallathe power los inayirunnu.  
 ## Problems and blockers
 
 -
