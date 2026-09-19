@@ -3,9 +3,6 @@
 **Goal this week:** redesign the coupler so the motor and wheel assembly fits properly inside the base and get into electronis
 
 ## What we did
-## What we did
-
-## What we did
 
 So, we started redesigning the coupler. We first looked at the coupler design we were already using and checked where there was any extra or unused space. Honestly, there was quite a lot of space that was not being used.
 
