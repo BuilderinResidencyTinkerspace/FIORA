@@ -25,7 +25,13 @@ After confirming that the electronics were working, we assembled the motors, mot
 
 And this time, everything worked properly. The rover moved as expected, which was a big step forward for us.
 
-nammal ini 3D model indakan aan plan cheyyunne oru bakkath alen 3D print model design cheuunundayrinnu. shamil sidil ninn prototype body baki build cheyyunu. 
+nammal ini 3D model indakan aan plan cheyyunne oru bakkath alen 3D print model design cheuunundayrinnu. shamil sidil ninn prototype body baki build cheyyunum. so njgal already oru model draw chyth vechitt und. ade pole akaaan aan plan.
+
+<img width="500" alt="FIORA - 3D Model Design" src="https://github.com/user-attachments/assets/de93ace8-9348-43e4-a502-1d498d1ba1f2" />
+<img width="500" alt="FIORA - Design" src="https://github.com/user-attachments/assets/6c164d37-a1aa-423c-b2ac-62742e631dc6" />
+aa samayath aan shan vann parayunne njgL LIDAR use cheyyanam enn. it was a SLAMTECH RPLIDAR A1M8 360 degree laser rang finder.so we didnt have any option, njngal ok paranju. njngal athyamayittan lidar use cheyyan pokunnath. we need to look into it.
+
+<img width="500" alt="FIORA - LiDAR" src="https://github.com/user-attachments/assets/68d1a346-6e68-4ecf-be18-ea1dec6a0ccf" />
 
 
 
