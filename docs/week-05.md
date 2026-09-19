@@ -25,6 +25,8 @@ After confirming that the electronics were working, we assembled the motors, mot
 
 And this time, everything worked properly. The rover moved as expected, which was a big step forward for us.
 
+nammal ini 3D model indakan aan plan cheyyunne oru bakkath alen 3D print model design cheuunundayrinnu. shamil sidil ninn prototype body baki build cheyyunu. 
+
 
 
 -
