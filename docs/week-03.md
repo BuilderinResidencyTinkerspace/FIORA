@@ -27,6 +27,9 @@ So, we completed the first stage of the mounting. Now we had to attach the mount
 
 Another major problem was that we had taken the full length of the motor while designing and printing the mount. Because of this, the mount was covering almost the entire motor. So, we made another smaller square-shaped mount, but that one turned out to be too small.
 We had to try again, and this time we thought, why not try a different shape for our model? So, we designed a triangular-shaped mount, and this one became more suitable for our model.
+
+<img width="500" alt="Base with triangular mounting" src="https://github.com/user-attachments/assets/b06277a8-1f09-45bc-9797-e81a53cf8db4" />
+
 We placed the motor into the mount, connected the coupler to the adapter, and then placed the whole setup on the base. That's when we found another problem. The length of our coupler was too big, so we had to move the motor mount a little further back to get the wheel into the correct position.
 
 But when we moved the mount backwards, the mounts on the left and right sides started touching each other. Because of this, the motor and wheel could not be positioned properly, and the wheel was no longer aligned with the wheel cutout in the base. The wheel was supposed to sit inside the cutout and come through it properly, but because of the mounting position, it was getting blocked and could not fit into the cutout correctly.
