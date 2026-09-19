@@ -36,12 +36,6 @@ But suddenly, the setup stopped working. At the same time, we started getting la
 
 When we checked the cable as well, we noticed that it had also become hot. We rechecked the ESP32, and unfortunately, it was already burned. We still don't know the exact reason why it happened.
 
-Since we didn't want to waste more time, we decided to try another ESP32 model. We switched to an **ESP32 DevKit**, and initially, it worked without any problems. We were able to run our tests with it, but suddenly, that board also stopped working. We suspected that there might be some issue with the power supply, but we couldn't confirm the exact cause.
-
-So, we decided to move to an **Arduino Uno** instead. Since we were changing the controller, we also had to change the motor driver. We first tried using an **L298 motor driver**. It worked, but we noticed that it produced a lot of heat during operation. Because of this, there was also a noticeable power loss, which made it less suitable for our setup.
-
-We started looking for another motor driver that would work better for our rover. That's when we found the **Arduino L293D Motor Driver Shield**. It was completely new to us, so we had to spend some time understanding how it worked and figuring out the connections.
-
 
 
 ## Problems and blockers
