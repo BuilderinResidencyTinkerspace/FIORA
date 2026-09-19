@@ -1,6 +1,8 @@
 # Week 5
 
 **Goal this week:**
+Our main goal this week was to continue working on the electronics, find a reliable motor controller and driver setup, and get all four motors running properly.
+and starting to designing 3D model body for fiora.
 
 ## What we did
 
