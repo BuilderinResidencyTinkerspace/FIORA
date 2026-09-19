@@ -23,7 +23,9 @@ Finally, we assembled everything together, and at last, everything was fitting p
 
 <img width="500" alt="FIORA - Motor Mounting" src="https://github.com/user-attachments/assets/32452ae2-c6ab-4189-8e9c-91c21187cef0" />
 
-<img width="400" alt="FIORA - Motor Mounting" src="https://github.com/user-attachments/assets/10aaf61c-4842-4359-8aa6-52150283235e" />
+<img width="400" alt="FIORA - Motor Mounting" src="https://github.com/user-attachments/assets/10aaf61c-4842-4359-8aa6-52150283235e" /> 
+
+<img width="500" alt="FIORA - Base" src="https://github.com/user-attachments/assets/7b4ed960-7f42-4f68-ab21-4e7f24e14db1" />
 
 so now we are going to our next stage and thats electronics. 
 
