@@ -30,8 +30,17 @@ Finally, we assembled everything together, and at last, everything was fitting p
 so now we are going to our next stage and thats electronics. 
 
 We then started working on the electronics side of the project. And, just like everyone else, our first task was to get the motors running.
-For this, our first core microcontroller was the **ESP32-S3 Pico**, and we used the **TB6612FNG motor driver**. We first uploaded the code to the microcontroller and then connected the motor driver to test it.
+For this, our first core microcontroller was the **ESP32-S3 Pico**, and we used the **TB6612FNG motor driver**.
+We set up the circuit on a breadboard and tested it to make sure everything was connected and working properly.
+
+<img width="400" alt="TB6612FNG Driver and ESP32-S3 Pico" src="https://github.com/user-attachments/assets/02acdefe-900c-4829-93f6-7f7c0b3e5005" />
+
+We first uploaded the code to the microcontroller and then connected the motor driver to test it.
 After a few initial tries, it started working. We then used the setup to test the motors and make sure they were rotating properly.
+
+<img width="400" alt="Working Process" src="https://github.com/user-attachments/assets/fc5beb70-cd73-40cf-8e6b-4b21e86b3411" />
+
+
 But suddenly, the setup stopped working. At the same time, we started getting laptop notifications saying that there might be some problem with the ESP32. We immediately checked the ESP32 by touching it, and it was extremely hot. So, we quickly disconnected the data cable and checked the setup.
 
 When we checked the cable as well, we noticed that it had also become hot. We rechecked the ESP32, and unfortunately, it was already burned. We still don't know the exact reason why it happened.
@@ -39,24 +48,22 @@ When we checked the cable as well, we noticed that it had also become hot. We re
 
 
 ## Problems and blockers
-
-* The original coupler had a lot of unused space, so we had to redesign it to make better use of the available space.
-* The first ESP32-S3 Pico became extremely hot and was eventually damaged during testing. We could not identify the exact reason.
-* The ESP32 DevKit also stopped working during testing, and we suspected a possible power supply issue.
-* The L298 motor driver produced a lot of heat during operation and resulted in noticeable power loss.
-* The Arduino L293D Motor Driver Shield was new to us, so we had to learn how it worked and understand its connections.
+* The coupler had a lot of unused space, so we had to redesign it to make better use of the available space.
+* The ESP32-S3 Pico became extremely hot during testing and was eventually damaged.
+* We could not identify the exact reason why the ESP32-S3 Pico burned.
+* The data cable also became hot during the incident.
 
 ## Decisions
+* We redesigned the coupler by making better use of the available space and extending the hexagonal section further into the wheel adapter.
+* We decided to start the electronics testing using the ESP32-S3 Pico and TB6612FNG motor driver.
+* After the ESP32-S3 Pico failed, we will need to test with another controller before continuing the electronics integration.
 
-* We redesigned the coupler by making better use of the unused space and extending the hexagonal section further into the wheel adapter.
-* After the ESP32 boards failed during testing, we decided to switch to an Arduino Uno.
-* We decided not to continue with the L298 motor driver because of the heat and power loss.
-* We selected the Arduino L293D Motor Driver Shield and started learning how to use it.
 ## Next week
+* Test another controller and motor driver setup.
+* Get the motors running again.
+* Continue with the electronics integration of FIORA.
 
-* Continue testing the Arduino L293D Motor Driver Shield and Get all four motors running properly.
-* Finalize the motor driver and controller setup.
-* 
+
 
 ## Links
 
