@@ -46,16 +46,35 @@ This was our first time working with LiDAR, so we knew we had to spend some time
 
 ## Problems and blockers
 
--
+* Continue testing and improving the motor control system.
+* Start working with the RPLIDAR A1M8.
+* Learn how to connect and read LiDAR data.
+* Start integrating the LiDAR with the Raspberry Pi and FIORA.
+*Continue developing the 3D model and prototype body.
 
 ## Decisions
 
--
+* We decided to move from the ESP32 to an Arduino Uno for the motor control.
+
+* We decided not to continue with the L298 motor driver because of the heat and power loss.
+
+* We selected the Arduino L293D Motor Driver Shield for controlling the four motors.
+
+* We added an HC-05 Bluetooth module for wireless control during testing.
+
+* We decided to include the SLAMTEC RPLIDAR A1M8 in FIORA and start learning how to use it.
+
+* We decided to use our existing body design as the reference for developing the 3D-printed body.
 
 ## Next week
 
--
+* Start working with the RPLIDAR A1M8.
 
+* Learn how to connect and read LiDAR data.
+
+* Start integrating the LiDAR with the Raspberry Pi and FIORA.
+
+* Continue developing the 3D model
 ## Links
 
 - Code:
