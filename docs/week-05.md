@@ -25,11 +25,18 @@ After confirming that the electronics were working, we assembled the motors, mot
 
 And this time, everything worked properly. The rover moved as expected, which was a big step forward for us.
 
-nammal ini 3D model indakan aan plan cheyyunne oru bakkath alen 3D print model design cheuunundayrinnu. shamil sidil ninn prototype body baki build cheyyunum. so njgal already oru model draw chyth vechitt und. ade pole akaaan aan plan.
+Now, we were planning to start making the 3D model for FIORA. Alen was working on designing the 3D-printed model, while Shamil was working on building the prototype body from his side. We had already drawn a model, and our plan was to make the final body similar to that design.
+
+**How the Drawing Guided the Design**
+
+The drawing gave us a basic reference for how we wanted FIORA to look and how the different parts should be arranged. We used it as a starting point while designing the 3D model, especially for the overall shape, size, and placement of the main components. Instead of designing everything from scratch, we could use the drawing as a guide and gradually modify the 3D model to match the planned design.
 
 <img width="500" alt="FIORA - 3D Model Design" src="https://github.com/user-attachments/assets/de93ace8-9348-43e4-a502-1d498d1ba1f2" />
 <img width="500" alt="FIORA - Design" src="https://github.com/user-attachments/assets/6c164d37-a1aa-423c-b2ac-62742e631dc6" />
-aa samayath aan shan vann parayunne njgL LIDAR use cheyyanam enn. it was a SLAMTECH RPLIDAR A1M8 360 degree laser rang finder.so we didnt have any option, njngal ok paranju. njngal athyamayittan lidar use cheyyan pokunnath. we need to look into it.
+
+At the same time, Shan came and told us that we needed to use LiDAR for the project. It was a **SLAMTEC RPLIDAR A1M8**, a 360-degree laser range finder. We didn't really have much of a choice, so we agreed to use it.
+
+This was our first time working with LiDAR, so we knew we had to spend some time learning about it and figuring out how we could use it with FIORA.
 
 <img width="500" alt="FIORA - LiDAR" src="https://github.com/user-attachments/assets/68d1a346-6e68-4ecf-be18-ea1dec6a0ccf" />
 
