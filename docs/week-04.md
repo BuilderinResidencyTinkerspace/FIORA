@@ -40,26 +40,27 @@ So, we decided to move to an **Arduino Uno** instead. Since we were changing the
 
 We started looking for another motor driver that would work better for our rover. That's when we found the **Arduino L293D Motor Driver Shield**. It was completely new to us, so we had to spend some time understanding how it worked and figuring out the connections.
 
-Once we figured it out, we started testing it. We also needed a way to control the rover wirelessly, so we added an **HC-05 Bluetooth module**. We uploaded the required code to the Arduino and connected the HC-05 to the controller.
-
-For the first test, we used a Bluetooth car controller app and controlled a single motor through Bluetooth. The motor responded correctly, so we then connected all the motors to the motor driver shield and tested them again. All the motors were working properly.
-
-After confirming that the electronics were working, we assembled the motors, motor driver, Arduino, Bluetooth module, and battery onto the base. Finally, we tested the complete setup by driving the rover.
-
-And this time, everything worked properly. The rover moved as expected, which was a big step forward for us.
 
 
 ## Problems and blockers
 
--
+* The original coupler had a lot of unused space, so we had to redesign it to make better use of the available space.
+* The first ESP32-S3 Pico became extremely hot and was eventually damaged during testing. We could not identify the exact reason.
+* The ESP32 DevKit also stopped working during testing, and we suspected a possible power supply issue.
+* The L298 motor driver produced a lot of heat during operation and resulted in noticeable power loss.
+* The Arduino L293D Motor Driver Shield was new to us, so we had to learn how it worked and understand its connections.
 
 ## Decisions
 
--
-
+* We redesigned the coupler by making better use of the unused space and extending the hexagonal section further into the wheel adapter.
+* After the ESP32 boards failed during testing, we decided to switch to an Arduino Uno.
+* We decided not to continue with the L298 motor driver because of the heat and power loss.
+* We selected the Arduino L293D Motor Driver Shield and started learning how to use it.
 ## Next week
 
--
+* Continue testing the Arduino L293D Motor Driver Shield and Get all four motors running properly.
+* Finalize the motor driver and controller setup.
+* 
 
 ## Links
 
