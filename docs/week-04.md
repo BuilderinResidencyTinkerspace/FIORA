@@ -25,13 +25,29 @@ Finally, we assembled everything together, and at last, everything was fitting p
 
 <img width="400" alt="FIORA - Motor Mounting" src="https://github.com/user-attachments/assets/10aaf61c-4842-4359-8aa6-52150283235e" />
 
-so now we are going to our next stage and that electronics. 
+so now we are going to our next stage and thats electronics. 
 
-nammal electronicil work cheyyan thudangi. and first ellavarudeyum pole thanne nammudeyum task motor karakuka ennayirunnu. so nammal mammude 1st core micro controller is esp32 s3 pico vestion aan.
-and TB6612FNG motordriver aayrunnu. njngal first mculekk code applode cheythu ennit motor driver connct cheythunoki at first kurach try it was working njngal ath vech motors okke karaki aayrunnu.
+We then started working on the electronics side of the project. And, just like everyone else, our first task was to get the motors running.
+For this, our first core microcontroller was the **ESP32-S3 Pico**, and we used the **TB6612FNG motor driver**. We first uploaded the code to the microcontroller and then connected the motor driver to test it.
+After a few initial tries, it started working. We then used the setup to test the motors and make sure they were rotating properly.
+But suddenly, the setup stopped working. At the same time, we started getting laptop notifications saying that there might be some problem with the ESP32. We immediately checked the ESP32 by touching it, and it was extremely hot. So, we quickly disconnected the data cable and checked the setup.
 
-but suddently it was not working appozhanel und lapinn notification verunne esp32 have some problem enn oke paranjitt. so njngal esp32 touch cheyth nokumbol ind its too hot appol thanne njngal data cable okke disconnect cheythu. nokkumbol anell cable okke heat aayittund aayrunnu. wew recheked the esp again and it was burned. the real reason enthan enn njngalk ippolum ariyilla. so njngal time waste cheyyanda enn vicharichitt vere esp32 models use cheyyan vicharichu. and we tried esp32 devkit 
-ath first okke preshnam illand thanne work cheythinayrunnum but suddently ath work cheyyand aay. and we think its power issue anne aan vicharikune. so. njagal arduino unoyilek mari. athukond thanne njngalk motor driver koode mattendi vanu. nagane njgal L298 use cheythu. but L298 has also limit. lots of heat produce avunnuath kond thane vallathe power lose indayirunnu. so njngal ath solve cheyan vendi vera oru driver search cheyth kond irinnu. tahts how njngal arduino L293D motor driver shield enna oru module kandethiyath. an itwas new to use us. but atlast we figured it out and started our work. we also needed to install a bluetooth module we had to drive the rover when it works. so also added a BT HC-05 module for bluetooth connection, and we uploaded the code to arduino and connected to the bluetooth and tested by moving a motor using BT car contrioller app and its was working, so we connected all motors to the sheild and tested again, it was all working properly. we assembled every motor and controlers and bettery to the base and drove our rover and it moves just fine.  
+When we checked the cable as well, we noticed that it had also become hot. We rechecked the ESP32, and unfortunately, it was already burned. We still don't know the exact reason why it happened.
+
+Since we didn't want to waste more time, we decided to try another ESP32 model. We switched to an **ESP32 DevKit**, and initially, it worked without any problems. We were able to run our tests with it, but suddenly, that board also stopped working. We suspected that there might be some issue with the power supply, but we couldn't confirm the exact cause.
+
+So, we decided to move to an **Arduino Uno** instead. Since we were changing the controller, we also had to change the motor driver. We first tried using an **L298 motor driver**. It worked, but we noticed that it produced a lot of heat during operation. Because of this, there was also a noticeable power loss, which made it less suitable for our setup.
+
+We started looking for another motor driver that would work better for our rover. That's when we found the **Arduino L293D Motor Driver Shield**. It was completely new to us, so we had to spend some time understanding how it worked and figuring out the connections.
+
+Once we figured it out, we started testing it. We also needed a way to control the rover wirelessly, so we added an **HC-05 Bluetooth module**. We uploaded the required code to the Arduino and connected the HC-05 to the controller.
+
+For the first test, we used a Bluetooth car controller app and controlled a single motor through Bluetooth. The motor responded correctly, so we then connected all the motors to the motor driver shield and tested them again. All the motors were working properly.
+
+After confirming that the electronics were working, we assembled the motors, motor driver, Arduino, Bluetooth module, and battery onto the base. Finally, we tested the complete setup by driving the rover.
+
+And this time, everything worked properly. The rover moved as expected, which was a big step forward for us.
+
 
 ## Problems and blockers
 
