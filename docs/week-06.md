@@ -36,16 +36,22 @@ So, we thought of using **Telegram** instead. The plan was to use the Telegram A
 We discussed this idea with Shan and he agreed with the approach. well most of the basic 3D design and base of FIORA were also almost completed, so we could start focusing more on the software, LiDAR, and delivery communication side of the project.
 
 ## Problems and blockers
+* We were working with LiDAR for the first time, so we needed to understand how it works and how to set it up properly.
+* Using WhatsApp for the project was difficult because its API requires an official setup, permissions, and verification.
+* We had to reconsider our communication method and look for an alternative to WhatsApp.
 
--
 
 ## Decisions
-
--
+* We decided to use the RPLIDAR A1M8 for detecting the surroundings and collecting distance measurements.
+* We decided to explore Telegram as the communication method for FIORA.
+* We planned to create a Telegram bot through which users could select a delivery destination and send requests to the robot.
+* We decided to focus more on the software, LiDAR, and delivery communication since the basic 3D design and robot base were almost completed.
 
 ## Next week
-
--
+* Continue learning about LiDAR mapping and how it can be used in FIORA.
+* Work on setting up the Telegram bot for communication with the robot.
+* Explore how users can select a destination and send delivery requests through Telegram.
+* Continue improving the 3D body design and overall robot setup.
 
 ## Links
 
