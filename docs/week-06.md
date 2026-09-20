@@ -13,15 +13,25 @@ we started with a basic setup to understand how the RPLIDAR A1M8 works. We conne
 
 Our first goal was not to start autonomous navigation immediately. We wanted to make sure the LiDAR itself was working correctly and that the Raspberry Pi could communicate with it. Once we were able to receive the scan data, we could move on to understanding how the data could be used for mapping and navigation in FIORA.
 
-while we working on lidar that when shan told us ther is someone who is member of tinkerspace who worked on LIDAR befor. he told he  will connect the person to help us with lidar and to setup mapping. 
+While we were working on the LiDAR, Shan told us that there was someone in the TinkerSpace community who had worked with LiDAR before. He said he could connect us with that person so they could help us set up the LiDAR and mapping.
 
-and so thats how we met devadath. devadath is a ai engineer and also builds hardware related things. he is quit a person with knowled in iot. 
-angane njnagal devadathinte help ode lidar set cheyyan thudangi.
+That was how we met **Devadath**. He is an AI engineer who also works on hardware-related projects and has good knowledge of IoT and related technologies. With Devadath's help, we started working on setting up the LiDAR.
 
-so nammal lidar vech engene aan delivery cheyyikuka enn idea plan cheyyan thodangi. so njngalk orustalathil ninn oru pointilek delivery ethikanm so first nammal ath whatsaap vech chyya ennan vichriche whats appinte api use oru bot undaki lidaril kurach ficed point vechitt aa stationilek mathram deliveries ethikkam ennaky.  but unfortunately njngal anueshichappol whatswppintw api kittan sadhyatha illan manasilayi its too risk and kittum enn urapilla so we though ennal tlagraaminte api use cheyyam enn. ennit athinte api use cheyth oru bot undaki athil delivery set akam enn.
+At the same time, we started thinking about how we could actually use the LiDAR to make FIORA deliver something from one point to another. We wanted to have a system where a user could select a destination and the robot would deliver the item to that location.
 
-so nammal ee karyam shanintodum devadathintodum samsarichu so they egreed. and njngalude 3d designing base okke egadesham complet ayyirunnu 
+Our first idea was to use **WhatsApp**. We thought we could create a bot using the WhatsApp API and set a few fixed points on the LiDAR map. The user could then select one of those points, and FIORA could make the delivery to that location.
 
+**why we initially chose whatsapp**
+
+The main reason we first thought of using **WhatsApp** was because almost everyone already has it on their phone. We didn't want people to download another app or go to a separate website just to use FIORA. They could simply use WhatsApp, which they already know and use regularly, and send the delivery request from there. We felt this would make the system much easier and more convenient for everyone.
+
+So, we explained our idea to **Devadath** and discussed our plan to use WhatsApp for communicating with FIORA. He explained that the **WhatsApp API is not an open API that anyone can simply use for a personal project**. It has to be accessed through Meta's official system, with the required setup, permissions, and verification. Because of these restrictions, we could not simply create a WhatsApp bot and start using it for our project.
+
+Since this made WhatsApp difficult to implement for our project, we started looking for another option. The next option we considered was **Telegram**, since Telegram provides an API that makes it easier to create and use our own bot. So, we decided to explore Telegram as the communication method for FIORA.
+
+So, we thought of using **Telegram** instead. The plan was to use the Telegram API to create a bot through which users could select a delivery destination and send the delivery request to FIORA.
+
+We discussed this idea with Shan and he agreed with the approach. well most of the basic 3D design and base of FIORA were also almost completed, so we could start focusing more on the software, LiDAR, and delivery communication side of the project.
 
 ## Problems and blockers
 
