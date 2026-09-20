@@ -1,11 +1,12 @@
 # Week 7
 
-**Goal this week:**
 ## Goal this week
 
 Our main goal this week was to continue working on the **RPLIDAR A1M8** and understand how to use its scan data for mapping and navigation in FIORA. We also planned to **complete the 3D model of FIORA and start printing the body parts**. Along with this, we wanted to improve the overall design and move forward with both the LiDAR setup and the physical build of the robot.
 
-## What we did.We first wanted to check whether we could create a map using the LiDAR. So, we connected the **RPLIDAR A1M8 to ROS 2** and used **RViz2** to visualize the scan data. We then manually mapped the surroundings to understand how the LiDAR scans the environment and how the data could be used for mapping in FIORA.
+## What we did.
+
+We first wanted to check whether we could create a map using the LiDAR. So, we connected the **RPLIDAR A1M8 to ROS 2** and used **RViz2** to visualize the scan data. We then manually mapped the surroundings to understand how the LiDAR scans the environment and how the data could be used for mapping in FIORA.
 
 <img width="500" alt="LiDAR Mapping" src="https://github.com/user-attachments/assets/47839a0f-7f5c-4459-ba7a-7ccb6dce4bd3" />
 
