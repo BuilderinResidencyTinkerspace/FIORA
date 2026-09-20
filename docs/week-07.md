@@ -29,16 +29,21 @@ After making these adjustments, we reached that stage of the process and were re
 
 
 ## Problems and blockers
-
--
+* The LiDAR was mounted at the centre of the robot's body, so it could not detect every obstacle that might come into contact with the outer parts of the robot.
+* We needed to configure the robot's body dimensions in RViz2 to account for the actual size of the prototype.
+* We were still learning how to use LiDAR scan data for mapping and navigation.
 
 ## Decisions
-
--
+* We decided to use ROS 2 and RViz2 to visualize the LiDAR scan data and work on mapping.
+* We manually drove the prototype using Bluetooth while testing the LiDAR and mapping process.
+* We added the prototype body's dimensions in RViz2 to account for the robot's size.
+* We decided to continue mapping the TinkerSpace area using the LiDAR.
 
 ## Next week
-
--
+* Improve the mapping setup and test the accuracy of the generated map.
+* Use **SLAM (Simultaneous Localization and Mapping)** to create a map of the surroundings.
+* Add fixed delivery points to the Telegram bot so users can select a destination.
+* Work towards enabling **automatic delivery**, where FIORA can navigate to the selected point and deliver the item.
 
 ## Links
 
