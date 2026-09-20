@@ -11,6 +11,8 @@ so this week w strated with LIDAR-
 We needed to understand how LiDAR would fit into FIORA. Since FIORA is planned to be an autonomous indoor delivery robot, the LiDAR can help the robot detect its surroundings and understand the environment around it. The **RPLIDAR A1M8** can scan the area around the robot and provide distance measurements, which can later be used for mapping and navigation.
 we started with a basic setup to understand how the RPLIDAR A1M8 works. We connected the LiDAR to the Raspberry Pi 5 and first focused on getting the raw scan data from the sensor.
 
+<img width="400" alt="Working on LiDAR" src="https://github.com/user-attachments/assets/e5cdf086-ecfd-4dbe-8c16-bee66c113653" />
+
 Our first goal was not to start autonomous navigation immediately. We wanted to make sure the LiDAR itself was working correctly and that the Raspberry Pi could communicate with it. Once we were able to receive the scan data, we could move on to understanding how the data could be used for mapping and navigation in FIORA.
 
 While we were working on the LiDAR, Shan told us that there was someone in the TinkerSpace community who had worked with LiDAR before. He said he could connect us with that person so they could help us set up the LiDAR and mapping.
