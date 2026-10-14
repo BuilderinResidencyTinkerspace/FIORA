@@ -15,16 +15,28 @@ After helping the other teams, we returned to FIORA and continued working on our
 So, we had to reduce the size of the design. This meant changing many parts of our existing model, which was a big setback for us. We now had to work on the design again while also getting the mapping ready. At the same time, our final deadline was getting closer, and we didn't have much time left. So, we got back to work and started figuring out how to manage everything before the deadline.
 
 ## Problems and blockers
+* The Raspberry Pi kept shutting down during mapping, possibly because the power bank could not supply enough current.
 
--
+* Our 3D model was too large to print within the available time and would require a lot of filament.
+
+* Redesigning the model while continuing the mapping work was difficult because our final deadline was getting closer.
 
 ## Decisions
 
--
+* We decided to reduce the size of our 3D model and redesign the necessary parts.
+
+* We continued working on SLAM mapping while making plans to improve the design.
+
+* We focused on completing the important tasks before the final deadline.
 
 ## Next week
+* Continue working on SLAM mapping and improve the mapping setup.
 
--
+* Redesign the 3D model to make it smaller and easier to print.
+
+* Continue working on the Telegram bot and delivery points.
+
+* Start printing the redesigned model if it is ready.
 
 ## Links
 
