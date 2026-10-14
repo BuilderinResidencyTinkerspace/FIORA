@@ -14,12 +14,6 @@ After helping the other teams, we returned to FIORA and continued working on our
 
 So, we had to reduce the size of the design. This meant changing many parts of our existing model, which was a big setback for us. We now had to work on the design again while also getting the mapping ready. At the same time, our final deadline was getting closer, and we didn't have much time left. So, we got back to work and started figuring out how to manage everything before the deadline.
 
-
-
-## What we did
-
--
-
 ## Problems and blockers
 
 -
